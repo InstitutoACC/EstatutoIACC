@@ -1,7 +1,8 @@
 bookdown::gitbook:
+  title: "Estatuto IACC"
   description: "Estatuto social del Instituto A. C. C."
-  cover-image: "http://www.institutoacc.com.ar/wp-content/uploads/2017/10/LogoOriginal.png"
-  favicon: "http://www.institutoacc.com.ar/wp-content/themes/iacc-goldway/images/favicon.ico"
+  cover-image: "imgs/LogoOriginal.png"
+  favicon: "imgs/favicon.ico"
   css: style.css
   config:
     toc:
