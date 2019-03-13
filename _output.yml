@@ -1,9 +1,14 @@
 bookdown::gitbook:
+  description: "Estatuto social del Instituto A. C. C."
+  cover-image: "http://www.institutoacc.com.ar/wp-content/uploads/2017/10/LogoOriginal.png"
+  favicon: "http://www.institutoacc.com.ar/wp-content/themes/iacc-goldway/images/favicon.ico"
   css: style.css
   config:
     toc:
       before: |
         <li>Estatuto I. A. C. C.</li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:
