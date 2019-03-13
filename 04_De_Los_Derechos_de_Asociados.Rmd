@@ -3,7 +3,7 @@
 `r get_art_meta("4", "32")`
 * **Art. 32º**
 Los asociados, por el hecho de serlo, hallándose al día en el pago de las cuotas sociales, y no estando comprendidos en el [artículo 20º](#art20) tienen derecho:
-     + a) de voto, siempre que tengan más de 18 años de edad con un año de antigüedad ininterrumpido como socio de la Institución. Ambos requisitos se cumplirán a la fecha de las elecciones.
+     + a) De voto, siempre que tengan más de 18 años de edad con un año de antigüedad ininterrumpido como socio de la Institución. Ambos requisitos se cumplirán a la fecha de las elecciones.
      + b) De ser elegidos, para los distintos cargos de la Institución, bajo las condiciones estatutarias de cada cargo.
      + c) A voz y voto en las asambleas, exceptuándose aquellos que no tuvieran una antigüedad de un año.
      + d) Integrar las distintas subcomisiones.
