@@ -1,0 +1,40 @@
+# DEL NOMBRE, DOMICILIO, FINES, DISTINTIVOS Y PATRIMONIO SOCIAL
+
+`r get_art_meta("1")`
+* **Art. 1º**
+El Instituto Atlético Central Córdoba, fundado el 08 de agosto de 1918, con sede legal en la Ciudad de Córdoba, Provincia del mismo nombre, República Argentina, fija su domicilio legal y sede administrativa en la calle Jujuy 2602, entre calles Lope de Vega y Calderón de la Barca, donde tendrá que ser ubicada la Secretaría y deben realizarse las Asambleas y reuniones de la Comisión Directiva. Es una Asociación Civil, con Personería Jurídica, que tiene por objeto:
+    + a) Propulsar el desarrollo de la cultura física, moral e intelectual de sus asociados, para lo cual habilitará las instalaciones deportivas y sociales que puedan proveerse de acuerdo con los medios y recursos que disponga.
+    + b) Organizar competencias y torneos y participar en todos los actos conexos a sus fines, que organicen entidades civiles.
+    + c) Promover el espíritu de unión y solidaridad entre sus adherentes.
+    + d) Sostener relaciones con Instituciones Nacionales y Extranjeras, afines a sus propósitos y finalidades.
+
+`r get_art_meta("2")`
+* **Art. 2º**
+Los distintivos del Club serán:
+    + a) Bandera rojiblanca, en ocho franjas alternadas.
+    + b) Casaca uniforme rojiblanca en listas verticales.
+    + c) Escudo: Cinco (5) listas blancas verticales alternadas con cuatro (4) listas rojas y una lista transversal de izquierda a derecha y de abajo hacia arriba color blanco con las siglas I.A.C.C. en letras rojas.
+
+`r get_art_meta("3")`
+* **Art. 3º**
+La institución permanecerá ajena a todo dogma político, social y religioso y extraña a cualquier orientación racial o filosófica, para lo cual, en todas sus dependencias queda terminantemente prohibido promover y/o participar en cuestiones de carácter político, religioso o racial , como así mismo, organizar o realizar juegos de azar o apuestas, sin estar debidamente autorizadas.
+
+`r get_art_meta("4")`
+* **Art. 4º**
+El patrimonio del club estará constituido por los bienes inmuebles, muebles, útiles y herramientas, créditos, rentas, trofeos, bienes intangibles tales como derecho al nombre, insignias y escudo, todos los fondos que ingresen a sus arcas cualquiera fuere su origen.
+
+`r get_art_meta("5")`
+* **Art. 5º**
+La propiedad de los bienes que adquiera el Club, corresponderá a la institución como persona jurídica. Para ello, la Institución podrá realizar todos los actos jurídicos que, a juicio de sus órganos de representación, fueren necesarios o convenientes, entre otros:
+    + a) Adquirir, enajenar, prendar, permutar y locar toda clase de muebles o semovientes y arrendar toda clase de inmuebles en cualquier lugar de la República, como así también, adquirir, enajenar, prendar, hipotecar o permutar toda clase de inmuebles en cualquier parte del país, aceptar, constituir, transferir y extinguir hipotecas y todo derecho real, estas últimas acciones con autorización expresa de la Asamblea Societaria.
+    + b) Realizar toda clase de operaciones con bancos o instituciones de crédito, públicas o privadas.
+    + c) Aceptar donaciones, legados u otras liberalidades.
+    + d) Celebrar contratos de locación de cosas, de obra, de trabajo, etc. Y realizar todos los demás actos y contratos relacionados con su objeto. La enumeración que antecede es meramente enunciativa y no limitativa, pudiendo en consecuencia hacer toda clase y tipo de operaciones que resuelvan sus autoridades legales, dentro de sus facultades, y se relacionen directa o indirectamente, con sus fines sociales.
+
+`r get_art_meta("6")`
+* **Art. 6º**
+La disolución de la Institución deberá resolverse en Asamblea General Extraordinaria, citada especialmente a ese efecto, con el voto favorable de los dos tercios (2/3) de los socios presentes, constituida el quórum mínimo del diez por ciento (10%) de los asociados con derecho a voto; pero no podrá disponerse mientras exista en su seno un número de cincuenta asociados que, a la par de acreditar una permanencia consecutiva en el Club no inferior a cuatro años, resuelva encauzar y dirigir sus destinos dentro de los propósitos enunciados en este Estatuto.
+
+`r get_art_meta("7")`
+* **Art. 7º**
+La Institución no tiene plazo determinado de duración. Para el caso de disolución, los asociados renuncian a todo derecho sobre los bienes sociales, los que pasarán de inmediato, una vez satisfecha la liquidación de sus deudas si las hubiere, a quien la Asamblea expresamente determinare, debiendo ser en todos los casos a favor de un ente de bien común, con personería jurídica.

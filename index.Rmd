@@ -1,0 +1,25 @@
+--- 
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: []
+biblio-style: apalike
+link-citations: yes
+---
+
+```{r echo=FALSE}
+source("utils.R");
+```
+
+# INSTITUTO ATLÉTICO CENTRAL CÓRDOBA {.unnumbered}
+
+<center>
+
+**ASOCIACIÓN CIVIL**
+
+FUNDADO EL 8 DE AGOSTO DE 1918
+
+ESTATUTOS SOCIALES
+
+22/08/15
+
+</center>
