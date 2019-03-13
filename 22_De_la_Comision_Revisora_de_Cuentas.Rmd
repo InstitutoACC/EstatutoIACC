@@ -1,16 +1,16 @@
-# DE LA COMISIÓN REVISORA DE CUENTAS
+# DE LA COMISIÓN REVISORA DE CUENTAS {#cap22}
 
-`r get_art_meta("116")`
+`r get_art_meta("22", "116")`
 * **Art. 116º**
 La fiscalización social estará a cargo de una Comisión Revisora de Cuentas ad-honorem, cuyos miembros serán elegidos e n el mismo acto fijado para la elección de la Comisión Directiva y Junta Representativa. Estará compuesta por tres (3) miembros titulares y dos (2) miembros suplentes, que durarán tres (3) ejercicios en sus funciones, podrán ser reelectos y se elegirán de la siguiente manera:
     + a) Los primeros dos (2) miembros titulares y el primer miembro suplente corresponderán respectivamente a los tres miembros titulares propuestos por la lista de candidatos que resultare triunfante en las elecciones.
     + b) El tercer miembro titular y el segundo miembro suplente, corresponderán respectivamente a la lista de candidatos que resulte segunda en las elecciones, siempre que esta lista obtenga más del quince por ciento (15%) de los votos válidos.
 
-`r get_art_meta("117")`
+`r get_art_meta("22", "117")`
 * **Art. 117º**
 Los miembros de la Comisión Revisora de Cuentas deberán tener más de cuatro (4) años de antigüedad inmediata y no interrumpida, en la categoría o en la suma de ellas como socio vitalicio o pleno, hallándose al corriente en sus obligaciones con Tesorería. Las decisiones de la Comisión Revisora de Cuentas, se tomarán por simple mayoría.
 
-`r get_art_meta("118")`
+`r get_art_meta("22", "118")`
 * **Art. 118º**
 Son atribuciones y deberes de la Comisión Revisora de Cuentas:
     + a) Vigilar y exigir el cumplimiento de las disposiciones estatutarias.
@@ -25,6 +25,6 @@ Son atribuciones y deberes de la Comisión Revisora de Cuentas:
     + j) Llevar a cabo la confección de un libro de actas, en el cual deberán constar los asuntos y las tareas que la Comisión Revisora de Cuentas está llevando a cabo, y que podrá ser solicitado por la Comisión Directiva trimestralmente o cuando esta lo solicitare.
     + k) Llevar un registro de visado que, de manera trimestral, Tesorería dará a la Comisión Revisora de Cuentas a los fines de registrar el cumplimiento de sus respectivas obligaciones.
 
-`r get_art_meta("119")`
+`r get_art_meta("22", "119")`
 * **Art. 119º**
 Las vacantes de la Comisión Revisora de Cuentas se cubrirán incorporando los suplentes en el orden de lista. Si no obstante la incorporación de los suplentes, la Comisión Revisora de Cuentas quedase en minoría o acéfala, se integrará está con los miembros de la Junta Representativa, sorteados por la Comisión Directiva en presencia de aquellos.

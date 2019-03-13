@@ -1,6 +1,6 @@
-# DEL PRESIDENTE
+# DEL PRESIDENTE {#cap8}
 
-`r get_art_meta("70")`
+`r get_art_meta("8", "70")`
 * **Art. 70º**
 El Presidente representa a la institución en todos sus actos, ya sean estos legales, deportivos o sociales y ejerce además todas las otras funciones inherentes al cargo y representación que inviste, teniendo las siguientes atribuciones y obligaciones:
     + a) Presidir las Asambleas y reuniones de la Comisión Directiva, como así también, cuando lo creyere conveniente, las sesiones de las Subcomisiones y delegaciones del Club, firmando sus actas.

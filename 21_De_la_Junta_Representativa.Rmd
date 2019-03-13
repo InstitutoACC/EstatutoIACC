@@ -1,49 +1,49 @@
-# DE LA JUNTA REPRESENTATIVA
+# DE LA JUNTA REPRESENTATIVA {#cap21}
 
-`r get_art_meta("104")`
+`r get_art_meta("21", "104")`
 * **Art. 104º**
 La Junta Representativa actuará como mediador en las cuestiones que se susciten entre los socios, o entre estos y la Comisión Directiva, velando por la defensa y protección de los derechos de los asociados. Asimismo, arbitrará en los conflictos que se susciten entre las Subcomisiones, acorde a lo establecido por el [artículo 99º](#art99) del presente Estatuto. Sin perjuicio de lo anteriormente expuesto, la Junta Representativa oficiará como órgano consultivo cada vez que la Comisión Directiva lo requiera, teniendo en este caso sus resoluciones un carácter no vinculante.
 
-`r get_art_meta("105")`
+`r get_art_meta("21", "105")`
 * **Art. 105º**
 La Junta Representativa se compondrá de seis (6) socios titulares y tres (3) suplentes, mayores de veinticinco y cinco (25) años de edad que deberán ser socios vitalicios, vitalicios protectores o plenos, con una antigüedad inmediata y consecutiva de cinco (5) años y que se hallaren al corriente en sus obligaciones con Tesorería. Resultarán elegidos en la misma oportunidad que la Comisión Directiva y la Comisión Revisora de Cuentas. Para el caso de los miembros titulares, la lista ganadora se adjudicará dos tercios (2/3) de sus Miembros, en tanto que la primera minoría ocupara el tercio (1/3) restante, disputando, en caso de que hubiese más de dos listas, este tercio mediante el sistema D’Hondt. Los candidatos a este organismo, estarán numerados del primero (1º) al sexto (6º) lugar, para el caso de los titulares; y del primero (1º) al tercer (3º) lugar para el caso de los suplentes, estableciéndose su rango y/o jerarquía dentro del organismo, a los fines de suplantar las vacantes de Vocales de Comisión Directiva que establece el [artículo 93º](#art93).
 
-`r get_art_meta("106")`
+`r get_art_meta("21", "106")`
 * **Art. 106º**
 Los miembros de la Junta Representativa durarán tres (3) ejercicios en su mandato y podrán ser reelegidos.
 
-`r get_art_meta("107")`
+`r get_art_meta("21", "107")`
 * **Art. 107º**
 En caso de acefalía total o imposibilidad de reunir a la Junta Representativa, la Comisión Directiva convocará a una Asamblea General Extraordinaria dentro de los sesenta (60) días para su nueva integración.
 
-`r get_art_meta("108")`
+`r get_art_meta("21", "108")`
 * **Art. 108º**
 La Junta Representativa funcionará a pedido de algún asociado mayor de dieciocho (18) años de edad o de sus tutores o representantes legales, en el caso de menores de edad, o por convocatoria de la Comisión Directiva, o cuando la Junta, de por sí, lo solicitare.
 
-`r get_art_meta("109")`
+`r get_art_meta("21", "109")`
 * **Art. 109º**
 La solicitud de constitución de la Junta Representativa deberá dirigirse a la Comisión Directiva por escrito y ésta tiene el deber de proveer de conformidad, dentro de los diez (10) días corridos posteriores a la presentación de la solicitud.
 
-`r get_art_meta("110")`
+`r get_art_meta("21", "110")`
 * **Art. 110º**
 Cada vez que funcione la Junta Representativa designará entre sus miembros actuantes, un secretario, quien deberá formar expediente y registrará el fallo que será firmado por todos en un libro especial. Este organismo será presidido por el Vicepresidente 2º de la Comisión Directiva, y en caso de su ausencia u otro impedimento, este organismo designará por simple mayoría el miembro que la presidirá.
 
-`r get_art_meta("111")`
+`r get_art_meta("21", "111")`
 * **Art. 111º**
 La Junta Representativa puede despachar un asunto con la simple mayoría de los votos de sus miembros, dando fuerza a sus resoluciones, pero en todos los casos, sus integrantes deberán dejar constancia escrita de los fundamentos del voto que emitiesen. Si por circunstancias especiales un miembro se excusa de intervenir, su lugar será cubierto por uno de los suplentes de acuerdo al orden de designación.
 
-`r get_art_meta("112")`
+`r get_art_meta("21", "112")`
 * **Art. 112º**
 La Junta Representativa resolverá los asuntos exclusivamente de la incumbencia para la que fue constituida a pedido de un asociado, o de la Comisión Directiva, poseyendo para este caso los atributos necesarios para realizar su cometido.
 
-`r get_art_meta("113")`
+`r get_art_meta("21", "113")`
 * **Art. 113º**
 Las resoluciones de la Junta Representativa serán apelables ante la primera Asamblea Ordinaria, pero sus fallos subsistirán mientras tanto.
 
-`r get_art_meta("114")`
+`r get_art_meta("21", "114")`
 * **Art. 114º**
 La Junta Representativa asumirá, en caso de acefalía total o definitiva, la administración provisional de la Institución, siguiendo el procedimiento establecido en el [art. 67º](#art67).
 
-`r get_art_meta("115")`
+`r get_art_meta("21", "115")`
 * **Art. 115º**
 Son prerrogativas especiales de la Junta Representativa, designar los miembros que compondrán la Junta Electoral; así como entender en los casos de cancelación de funcionamiento de filiales, a pedido de la Comisión Directiva, como lo establece el [artículo 127º](#art127).

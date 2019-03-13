@@ -1,10 +1,10 @@
-# DE LA COMISIÓN DIRECTIVA
+# DE LA COMISIÓN DIRECTIVA {#cap7}
 
-`r get_art_meta("57")`
+`r get_art_meta("7", "57")`
 * **Art. 57º**
 La Institución será administrada, dirigida y representada en todos sus actos y contratos por una Comisión Directiva, – ad honorem -, compuesta de la siguiente manera: un Presidente, un Vicepresidente 1º, un Vicepresidente 2º, un Secretario General, un Prosecretario General, un Tesorero y un Protesorero; un Secretario de Actas e Información Institucional, un Prosecretario de Actas e Información Institucional, un Secretario de Recursos Financieros, un Prosecretario de Recursos Financieros y cinco vocales.
 
-`r get_art_meta("58")`
+`r get_art_meta("7", "58")`
 * **Art. 58º**
 Para ser miembro de la Comisión Directiva, se requiere:
     + a) Haber cumplido 25 años de edad y cuatro (4) consecutivos e inmediatos de antigüedad como socio Pleno, Vitalicio o Vitalicio Protector, en cualquiera de esas categorías o entre ellas. Podrá haber dos miembros menores de veinticinco años pero mayores de dieciocho, también con (4) consecutivos e inmediatos de antigüedad, por lo menos, como socios Plenos.
@@ -12,46 +12,46 @@ Para ser miembro de la Comisión Directiva, se requiere:
     + c) No haber sido condenado por la justicia a pena infamante, si hubiera sido concursado o quebrado, deberá ser rehabilitado judicialmente; d) No ser empleado del Club.
     + d) No pertenecer a otros órganos de gobierno de instituciones similares, ni ser empleado de ellas o que practique deporte de carácter profesional.
 
-`r get_art_meta("59")`
+`r get_art_meta("7", "59")`
 * **Art. 59º**
 Los miembros de la Comisión Directiva durarán tres ejercicios en sus cargos. Los cargos de Presidente, Vicepresidente 1º, Vicepresidente 2º, Secretario General y Tesorero serán conferidos en elección directa en los comicios de asociados. En cuanto a los cargos de Prosecretario General, Protesorero, Secretario de Actas e Información Institucional, Prosecretario de Actas e Información Institucional, Secretario de Recursos Financieros, y Prosecretario de Recursos Financieros, serán designados por la mayoría de la totalidad de los miembros de Comisión Directiva en la primera reunión que se celebre después de los comicios. La elección de Comisión Directiva se hará por lista completa que contendrá los candidatos a Presidente, Vicepresidente 1º, Vicepresidente 2º, Secretario General, Tesorero y once (11) candidatos a Vocales, por orden de lista.
 
-`r get_art_meta("60")`
+`r get_art_meta("7", "60")`
 * **Art. 60º**
 Los miembros de Comisión Directiva durarán tres (3) ejercicios en su mandato y podrán ser reelegidos, a excepción del Presidente que podrá ser reelegido por solamente un período. Si ha sido reelecto no puede ser elegido para el mismo cargo, sino con el intervalo de un período.
 
-`r get_art_meta("61")`
+`r get_art_meta("7", "61")`
 * **Art. 61º**
 La Comisión Directiva tendrá la obligación de reunirse en sesión ordinaria, por lo menos, 2 veces al mes y en sesión extraordinaria cuando lo juzgue necesario, bastando para su convocatoria, la simple resolución de la presidencia o la petición escrita de seis (6) de sus miembros titulares. Las sesiones serán públicas, salvo en casos que la Comisión Directiva resuelva lo contrario por circunstancias especiales de su propio juzgamiento.
 
-`r get_art_meta("62")`
+`r get_art_meta("7", "62")`
 * **Art. 62º**
 La Comisión Directiva, en cualquiera de los casos previstos, podrá deliberar con la presencia de la mitad más uno de sus miembros, lo que hará constar con la firma del libro de asistencia que se llevará por secretaría.
 
-`r get_art_meta("63")`
+`r get_art_meta("7", "63")`
 * **Art. 63º**
 Todas las resoluciones de la Comisión Directiva, salvo disposición estatutaria en contrario, requerirán para su aprobación el voto favorable de la mitad más uno de los Miembros Titulares presentes.
 
-`r get_art_meta("64")`
+`r get_art_meta("7", "64")`
 * **Art. 64º**
 Las reuniones de la Comisión Directiva serán presididas por el Presidente. A falta de éste, lo será por el miembro de Comisión Directiva presente que revista mayor rango y que se designara a tal efecto, según el orden de prelación establecido por el [Artículo 57º](#art57).
 
-`r get_art_meta("65")`
+`r get_art_meta("7", "65")`
 * **Art. 65º**
 Ninguna resolución de la Comisión Directiva podrá ser reconsiderada sino por la mayoría de dos tercios (2/3) de votos, en otra sesión que cuente con igual o mayor número de miembros presentes, que aquella en la que hubiera sido votada la resolución que se pretende reconsiderar. En ese caso, el quórum deberá formarse con un número igual o mayor de titulares presentes en la sesión en que aquella se tomó. Para ser votada una moción de reconsideración, será necesaria que la apoyen cuatro (4) miembros titulares presentes.
 
-`r get_art_meta("66")`
+`r get_art_meta("7", "66")`
 * **Art. 66º**
 Cuando un miembro de la Comisión Directiva faltase a cinco (5) sesiones consecutivas sin causa justificada, u ocho (8) alternadas, deberá ser prevenido por escrito y en caso de nueva ausencia similar inmediata, será declarado cesante, incorporándose automáticamente al miembro de Junta Representativa de mayor rango en forma definitiva.
 
-`r get_art_meta("67")`
+`r get_art_meta("7", "67")`
 * **Art. 67º**
     + a) Si se produjera la acefalía de la Comisión Directiva, ya fuera por renuncia colectiva de sus miembros o por haber quedado en minoría absoluta, situación que se presenta cuando por diversas causas la cantidad de integrantes de la misma ha quedado reducida a menos de la mitad del total de socios que la componen, se hará cargo de la entidad, automáticamente, la Junta Representativa, constituida de conformidad con lo establecido por el [artículo 105º](#art105). La mencionada Junta actuará como Comisión Directiva del Club, con todos sus deberes y atribuciones, por un lapso máximo de sesenta (60) días corridos. Dentro de los primeros veinte (20) días corridos de iniciadas sus funciones, deberá convocar a elecciones para conformar una nueva Comisión Directiva.
     + b) Luego que de acuerdo con los [artículos 146º](#art146) y [148º](#art148) la Junta Electoral informe sobre el resultado de las elecciones, los asociados electos recibirán de la Junta Representativa la dirección del Club, en reunión conjunta, lo que se hará constar en acta.
     + c) La Comisión Directiva elegida con motivo de la eventualidad prevista en el apartado a) asumirá sus funciones por el periodo estatutariamente previsto.
     + d) En caso de acefalía de Comisión Directiva y Junta Representativa, la Comisión Revisora de Cuentas actuará como Comisión Directiva del Club, con todos los deberes y atribuciones previstos en el inciso a) del presente artículo.
 
-`r get_art_meta("68")`
+`r get_art_meta("7", "68")`
 * **Art. 68º**
 Son facultades, deberes y atribuciones de la Comisión Directiva según los casos y sin perjuicio de lo que tácitamente resulte del presente Estatuto:
     + a) Respetar y hacer respetar el Estatuto, Reglamentos y resoluciones que en uso de sus facultades, dicten las autoridades de la Asociación del Fútbol Argentino, absteniéndose de efectuar por si y/o por medio de sus representantes protestas públicas contra aquellas y/o cuestionarlas, salvo casos de arbitrariedad por ilegitimidad o nulidad por violación de las formas esenciales del procedimiento, en un todo de acuerdo con lo establecido en el art. 6º del Estatuto de la Asociación del Fútbol Argentino.
@@ -81,6 +81,6 @@ Son facultades, deberes y atribuciones de la Comisión Directiva según los caso
     + x) Someter toda diferencia o litigio que pudiera surgir con la Asociación del Fútbol Argentino, otras Asociaciones o clubes afiliados a éstas, ante un Tribunal Arbitral, nombrado de común acuerdo (Arts. 59 Estatuto FIFA y 6º Estatuto AFA), con antelación a su planteo ante los Tribunales de Justicia.
     + y) Dar a publicidad, en forma semestral, a través de los órganos de difusión oficiales del Club o por los medios que estime oportunos, el estado económico–financiero de la Institución.
 
-`r get_art_meta("69")`
+`r get_art_meta("7", "69")`
 * **Art. 69º**
 Queda absolutamente prohibido a los miembros de la Comisión Directiva bajo pena de suspensión, dar explicaciones o noticias de cualquier género sobre resoluciones, discusiones, votaciones o deliberaciones habidas en el seno de la misma, o comentarios con personas ajenas a la Comisión Directiva, siempre que ello se derive un perjuicio para la institución.
