@@ -4,7 +4,7 @@ get_art_meta <- function(cap_num, art_num) {
     art_num,
     '">',
     '<a class="btn pull-right js-toolbar-action" aria-label="" target="blank" href=',
-    '"https://twitter.com/intent/tweet?text=Mir%C3%A1+el+art%C3%ADculo+',
+    '"https://twitter.com/intent/tweet?text=Mirá+el+art%C3%ADculo+',
     art_num, '%C2%BA+del+%23EstatutoIACC+%3A+',
     'https://InstitutoACC.github.io/EstatutoIACC/cap',
     cap_num,
