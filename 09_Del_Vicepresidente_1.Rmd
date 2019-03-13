@@ -1,7 +1,9 @@
 # DEL VICEPRESIDENTE 1º
 
+`r get_art_meta("71")`
 * **Art. 71º**
 El Vicepresidente 1º auxiliará y colaborará con e l Presidente en sus funciones. En virtud de su cargo, el Vicepresidente 1º supervisará el funcionamiento del fútbol de la Institución, tanto profesional como amateur, y las actividades del predio “La Agustina”.
 
+`r get_art_meta("72")`
 * **Art. 72º**
 El Vicepresidente 1º reemplazará al Presidente en caso de fallecimiento, ausencia, enfermedad o renuncia, con las mismas funciones, atribuciones y obligaciones conferidas y exigidas a éste y tendrá voz y voto en las Asambleas y reuniones de la Comisión Directiva, siempre que no se encuentre en ejercicio de la Presidencia.

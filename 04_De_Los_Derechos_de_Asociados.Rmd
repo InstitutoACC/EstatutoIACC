@@ -1,6 +1,6 @@
 # DE LOS DERECHOS DE LOS ASOCIADOS
 
-<div id="art32">
+`r get_art_meta("32")`
 * **Art. 32º**
 Los asociados, por el hecho de serlo, hallándose al día en el pago de las cuotas sociales, y no estando comprendidos en el [artículo 20º](#art20) tienen derecho:
      + a) de voto, siempre que tengan más de 18 años de edad con un año de antigüedad ininterrumpido como socio de la Institución. Ambos requisitos se cumplirán a la fecha de las elecciones.
@@ -18,11 +18,14 @@ Los asociados, por el hecho de serlo, hallándose al día en el pago de las cuot
      + m) A revocar el mandato de toda la Comisión Directiva, Junta Representativa y Comisión Revisora de Cuentas transcurrido un año de su gestión y por considerar su incapacidad para continuar conduciendo la Institución, según lo establecido en el [artículo 150º](#art150).
      + n) Presentar asociados.
 
+`r get_art_meta("33")`
 * **Art. 33º**
 Los socios honorarios tendrán los mismos derechos , deberes y obligaciones que este Estatuto acuerda a los asociados plenos, vitalicios, vitalicios protectores y especiales con excepción de los enunciados en el inciso b) del [artículo 25º](#art25) y en los incisos a), b), j) y m) del [artículo 32º](#art32). Estas limitaciones no rigen para los asociados honorarios que tuvieren derecho a su ejercicio por revistar a la vez en las categorías de vitalicios, protectores o plenos.
 
+`r get_art_meta("34")`
 * **Art. 34º**
 Los socios Vitalicios quedan exentos del pago de la cuota mensual, teniendo en lo demás los mismos derechos, deberes y obligaciones que los socios activos. Igual tratamiento tendrán los Vitalicios Protectores excepto por su compromiso a abonar una cuota mensual, en correspondencia con el [artículo 12º](#art12).
 
+`r get_art_meta("35")`
 * **Art. 35º**
 Los empleados a sueldo de la Institución o que perciban cualquier tipo de honorario o remuneración podrán ser socios y tendrá n en tal supuesto los derechos, deberes y obligaciones de éstos; menos de intervenir en política electoral de la Institución, ni ser electores ni ser elegidos o el de peticionar ante las autoridades, hasta después de un año de haber cesado en su empleo o de sus funciones remuneradas.

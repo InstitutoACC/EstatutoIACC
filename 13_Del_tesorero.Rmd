@@ -1,11 +1,14 @@
 # DEL TESORERO
 
+`r get_art_meta("79")`
 * **Art. 79º**
 El Tesorero es el responsable de los fondos y valores de la institución. Cuidará de la integridad de los ingresos y de la procedencia y corrección de los egresos, con arreglo a las disposiciones de este Estatuto, del Reglamento Interno y de las resoluciones de Comisión Directiva que se dicten en su consecuencia.
 
+`r get_art_meta("80")`
 * **Art. 80º**
 El Tesorero es autoridad competente para intervenir en todo acto u operación relativa a bienes, fondos, valores y demás cosas del patrimonio social. Está facultado para tomar cualquier medida en defensa de los intereses sociales, con cargo de rendir cuenta a Comisión Directiva.
 
+`r get_art_meta("81")`
 * **Art. 81º**
 Son deberes y atribuciones del Tesorero:
     + a) La recaudación y custodia de todos los fondos de la Institución, llevando los libros de Caja, Diario, Mayor e Inventario y los auxiliares necesarios.

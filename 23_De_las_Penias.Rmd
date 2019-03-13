@@ -1,8 +1,10 @@
 # DE LAS PEÑAS
 
+`r get_art_meta("120")`
 * **Art. 120º**
 Se reconocerá oficialmente como PEÑA de nuestra Institución cuando como mínimo diez (10) socios deseen organizarse como tal en su localidad, pueblo, ciudad o región y eleven la solicitud correspondiente a la Comisión Directiva para que resuelva su aprobación.
 
+`r get_art_meta("121")`
 * **Art. 121º**
 Serán objetivos a cumplir por las PEÑAS, los siguientes:
     + a) Difundir el deporte en todas sus manifestaciones.
@@ -11,22 +13,26 @@ Serán objetivos a cumplir por las PEÑAS, los siguientes:
     + d) Fomentar la incorporación de socios plenos en toda su zona de actuación.
     + e) Estimular todo emprendimiento que redunde en el engrandecimiento de nuestra Institución.
 
+`r get_art_meta("122")`
 * **Art. 122º**
 La representación y funcionamiento de las Peñas que se constituyan deberán estar compuestas por personas con domicilio fijado en la localidad que obligatoriamente deberán ser socios de nuestra Institución. Dicha comisión estará integrada por: un Socio Referente 1º, un Socio Referente 2º y un Socio Referente 3º, cuyas funciones serán ejercidas ad-honorem.
 
-<div id="art123">
+`r get_art_meta("123")`
 * **Art. 123º**
 El valor de la cuota de los socios de las Peñas, será inferior a la cuota de socio pleno en un porcentaje que la Comisión Directiva fijará en correspondencia con lo dispuesto en el [artículo 68º](#art68) inc. m) del presente Estatuto.
 
+`r get_art_meta("124")`
 * **Art. 124º**
 La cuota de los socios a distancia podrán abonarse de acuerdo a como lo disponga la Representación de la peña quien deberá rendir lo recaudado a Tesorería General del Club, antes del día 15 de cada mes, en forma personal, transferencia bancaria o cheque.
 
+`r get_art_meta("125")`
 * **Art. 125º**
 Las Peñas podrán recibir donaciones, organizar rifas, cenas, eventos deportivos, con el fin de recaudar fondos para su mantenimiento y proyección. En todos los casos solicitarán autorización a la Comisión Directiva y rendirán un informe escrito y firmado por sus representantes acerca de los Ingresos y Gastos en forma trimestral.
 
+`r get_art_meta("126")`
 * **Art. 126º**
 Las Peñas deberán redactar su propio reglamento de funcionamiento interno que será elaborado dentro del marco que fij a el estatuto del club y elevado a la Comisión Directiva para su aprobación.
 
-<div id="art127">
+`r get_art_meta("127")`
 * **Art. 127º**
 A propuesta de la Comisión Directiva, la Junta Representativa podrá cancelar el funcionamiento de la Peña constituida cuando así lo estime conveniente, para lo cual deberá contar con el voto positivo de los dos tercios (2/3) de sus integrantes.
