@@ -6,7 +6,7 @@ Cuando los socios dispongan aplicar el inciso m) del [artículo 32º](#art32), d
 
 `r get_art_meta("25", "151")`
 * **Art. 151º**
-Tomada la decisión de convocar a referéndum, la Junta Representativa en un plazo no mayor de cinco días fijará la fecha de realización que no podrá ser mayor a los 60 días corridos ni menor a los treinta (30) días corridos. Designará una Junta Electoral que estará integrada por un presidente, un secretario, un secretario de actas, y por dos socios, uno coincidente con la propuesta que se lleva a referéndum y otro que no coincida. En este caso, los miembros de esta Junta Electoral deberán cumplir el requisito de tener diez (10) años de antigüedad ininterrumpida y como mínimo uno (1) de sus integrantes preferentemente deberán tener título de abogado.
+Tomada la decisión de convocar a referéndum, la Junta Representativa en un plazo no mayor de cinco días fijará la fecha de realización que no podrá ser mayor a los 60 días corridos ni menor a los treinta (30) días corridos. Designará una Junta Electoral que estará integrada por un presidente, un secretario, un secretario de actas, y por dos socios, uno coincidente con la propuesta que se lleva a referéndum y otro que no coincida. En este caso, los miembros de esta Junta Electoral deberán cumplir el requisito de tener diez (10) años de antigüedad ininterrumpida y como mínimo uno (1) de sus integrantes preferentemente deberá tener título de abogado.
 
 `r get_art_meta("25", "152")`
 * **Art. 152º**

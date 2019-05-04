@@ -17,7 +17,7 @@ Los distintivos del Club serán:
 
 `r get_art_meta("1", "3")`
 * **Art. 3º**
-La institución permanecerá ajena a todo dogma político, social y religioso y extraña a cualquier orientación racial o filosófica, para lo cual, en todas sus dependencias queda terminantemente prohibido promover y/o participar en cuestiones de carácter político, religioso o racial , como así mismo, organizar o realizar juegos de azar o apuestas, sin estar debidamente autorizadas.
+La institución permanecerá ajena a todo dogma político, social y religioso y extraña a cualquier orientación racial o filosófica, para lo cual, en todas sus dependencias queda terminantemente prohibido promover y/o participar en cuestiones de carácter político, religioso o racial, como así mismo, organizar o realizar juegos de azar o apuestas, sin estar debidamente autorizadas.
 
 `r get_art_meta("1", "4")`
 * **Art. 4º**

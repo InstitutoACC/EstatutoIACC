@@ -2,7 +2,7 @@
 
 `r get_art_meta("22", "116")`
 * **Art. 116º**
-La fiscalización social estará a cargo de una Comisión Revisora de Cuentas ad-honorem, cuyos miembros serán elegidos e n el mismo acto fijado para la elección de la Comisión Directiva y Junta Representativa. Estará compuesta por tres (3) miembros titulares y dos (2) miembros suplentes, que durarán tres (3) ejercicios en sus funciones, podrán ser reelectos y se elegirán de la siguiente manera:
+La fiscalización social estará a cargo de una Comisión Revisora de Cuentas ad-honorem, cuyos miembros serán elegidos en el mismo acto fijado para la elección de la Comisión Directiva y Junta Representativa. Estará compuesta por tres (3) miembros titulares y dos (2) miembros suplentes, que durarán tres (3) ejercicios en sus funciones, podrán ser reelectos y se elegirán de la siguiente manera:
     + a) Los primeros dos (2) miembros titulares y el primer miembro suplente corresponderán respectivamente a los tres miembros titulares propuestos por la lista de candidatos que resultare triunfante en las elecciones.
     + b) El tercer miembro titular y el segundo miembro suplente, corresponderán respectivamente a la lista de candidatos que resulte segunda en las elecciones, siempre que esta lista obtenga más del quince por ciento (15%) de los votos válidos.
 

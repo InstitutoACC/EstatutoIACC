@@ -40,7 +40,7 @@ Serán Socios Plenos los que reúnan las siguientes condiciones:
 
 `r get_art_meta("2", "14")`
 * **Art. 14º**
-El socio Pleno “Grupo Familiar” será el titular y su cónyuge ambos con plenos derechos políticos, de una familia que se suscriba en todas las ramas deportivas, culturales y sociales de la Institución. Podrán ser adherentes de esta categoría, sus hijos (varones y mujeres) hasta la edad de dieciocho años (18). SE establece un tope de 3 hijos, y sobre el excedente de integrantes en la familia, la Comisión Directiva estará facultada a cobrar un extra que puede fijarse en un valor equivalente al 50 % de la cuota de un socio menor por cada integrante que exceda en cantidad. Para ser socio “PLENO GRUPO FAMILIAR” se requiere como mínimo:
+El socio Pleno “Grupo Familiar” será el titular y su cónyuge ambos con plenos derechos políticos, de una familia que se suscriba en todas las ramas deportivas, culturales y sociales de la Institución. Podrán ser adherentes de esta categoría, sus hijos (varones y mujeres) hasta la edad de dieciocho años (18). Se establece un tope de 3 hijos, y sobre el excedente de integrantes en la familia, la Comisión Directiva estará facultada a cobrar un extra que puede fijarse en un valor equivalente al 50% de la cuota de un socio menor por cada integrante que exceda en cantidad. Para ser socio “PLENO GRUPO FAMILIAR” se requiere como mínimo:
     + a) Ser mayor de 18 años
     + b) Firmar la solicitud de ingreso y abonar por adelantado la cuota que fije la Comisión Directiva.
 En caso del fallecimiento del titular asume la titularidad su cónyuge. En caso de separación legal, el titular continúa con el mismo número de socio y antigüedad y el cónyuge debe asociarse nuevamente como socio pleno o grupo familiar según corresponda manteniendo la antigüedad.
@@ -60,7 +60,7 @@ Podrá ser socio Menor, quien se suscriba en todas las ramas deportivas, cultura
 
 `r get_art_meta("2", "17")`
 * **Art. 17º**
-Podrán ser socios “a distancia” todo aquel simpatizante que viviendo fuera del radio urbano de la Ciudad de Córdoba llene los requisitos que establezca la Comisión Directiva y cumpla con los requisitos del [artículo 13º](#art13) . La cuota de los socios a distancia se regirá por los [artículos 68º](#art68) y [123º](#art123) del presente Estatuto.
+Podrán ser socios “a distancia” todo aquel simpatizante que viviendo fuera del radio urbano de la Ciudad de Córdoba llene los requisitos que establezca la Comisión Directiva y cumpla con los requisitos del [artículo 13º](#art13). La cuota de los socios a distancia se regirá por los [artículos 68º](#art68) y [123º](#art123) del presente Estatuto.
 
 `r get_art_meta("2", "18")`
 * **Art. 18º**

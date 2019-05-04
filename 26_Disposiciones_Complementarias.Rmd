@@ -2,7 +2,7 @@
 
 `r get_art_meta("26", "155")`
 * **Art. 155º**
-Estos estatutos entrarán a regir inmediatamente d e ser aprobados por la Asamblea convocada al efecto y por el Superior Gobierno de la Provincia, quedando la Comisión Directiva autorizada para solicitar su aprobación y aceptar modificaciones que este último hiciera.
+Estos estatutos entrarán a regir inmediatamente de ser aprobados por la Asamblea convocada al efecto y por el Superior Gobierno de la Provincia, quedando la Comisión Directiva autorizada para solicitar su aprobación y aceptar modificaciones que este último hiciera.
 
 `r get_art_meta("26", "156")`
 * **Art. 156º**

@@ -2,7 +2,7 @@
 
 `r get_art_meta("9", "71")`
 * **Art. 71º**
-El Vicepresidente 1º auxiliará y colaborará con e l Presidente en sus funciones. En virtud de su cargo, el Vicepresidente 1º supervisará el funcionamiento del fútbol de la Institución, tanto profesional como amateur, y las actividades del predio “La Agustina”.
+El Vicepresidente 1º auxiliará y colaborará con el Presidente en sus funciones. En virtud de su cargo, el Vicepresidente 1º supervisará el funcionamiento del fútbol de la Institución, tanto profesional como amateur, y las actividades del predio “La Agustina”.
 
 `r get_art_meta("9", "72")`
 * **Art. 72º**

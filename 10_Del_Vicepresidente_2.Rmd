@@ -2,7 +2,7 @@
 
 `r get_art_meta("10", "73")`
 * **Art. 73º**
-El Vicepresidente 2º auxiliará y colaborará con e l Presidente y Vicepresidente 1º en el desempeño de sus funciones. En virtud de su cargo, el Vicepresidente 2º supervisará el funcionamiento de las restantes disciplinas que se desarrollen en la Institución, las actividades sociales y presidirá la Junta Representativa.
+El Vicepresidente 2º auxiliará y colaborará con el Presidente y Vicepresidente 1º en el desempeño de sus funciones. En virtud de su cargo, el Vicepresidente 2º supervisará el funcionamiento de las restantes disciplinas que se desarrollen en la Institución, las actividades sociales y presidirá la Junta Representativa.
 
 `r get_art_meta("10", "74")`
 * **Art. 74º**

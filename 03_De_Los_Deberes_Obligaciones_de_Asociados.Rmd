@@ -26,10 +26,10 @@ Los socios son responsables de cualquier deterioro o perjuicio material que pudi
 
 `r get_art_meta("3", "30")`
 * **Art. 30º**
-Los socios podrán ser suspendidos en sus derechos , por las siguientes causas:
+Los socios podrán ser suspendidos en sus derechos, por las siguientes causas:
      + a) Por no respetar el Estatuto Social, los Reglamentos internos o las resoluciones dictadas por las Asambleas o la Comisión Directiva.
      + b) Por no mantener el orden y el decoro dentro y fuera de las instalaciones del Club, en todos los actos en que se intervenga.
-     + c) Por ceder o facilitar a otras personas el carnet social. Cuando un socio fuera sorprendido faltando al cumplimiento de sus obligaciones, según las prescripciones de los incisos a), b) y c), cualquier miembro de la Comisión Directiva o subcomisión, o en ausencia de esta, el Gerente, o Intendente, podrán resolver el retiro del carnet, elevando el informe pertinente a la Comisión Directiva dentro de las 48 horas. La negativa del socio a entregar la referida credencial, cuando le sea requerida, implicará desacato y agravará su falta. La suspensión podrá ser de hasta seis meses de acuerdo a la gravedad del hecho constatado. El que fuera suspendido por dos veces, a la tercera sanción, será expulsado. El socio abonará igualmente las cuo tas sociales correspondientes al período de suspensión.
+     + c) Por ceder o facilitar a otras personas el carnet social. Cuando un socio fuera sorprendido faltando al cumplimiento de sus obligaciones, según las prescripciones de los incisos a), b) y c), cualquier miembro de la Comisión Directiva o subcomisión, o en ausencia de esta, el Gerente, o Intendente, podrán resolver el retiro del carnet, elevando el informe pertinente a la Comisión Directiva dentro de las 48 horas. La negativa del socio a entregar la referida credencial, cuando le sea requerida, implicará desacato y agravará su falta. La suspensión podrá ser de hasta seis meses de acuerdo a la gravedad del hecho constatado. El que fuera suspendido por dos veces, a la tercera sanción, será expulsado. El socio abonará igualmente las cuotas sociales correspondientes al período de suspensión.
 
 `r get_art_meta("3", "31")`
 * **Art. 31º**

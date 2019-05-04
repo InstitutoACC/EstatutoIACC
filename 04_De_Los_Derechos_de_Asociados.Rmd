@@ -20,7 +20,7 @@ Los asociados, por el hecho de serlo, hallándose al día en el pago de las cuot
 
 `r get_art_meta("4", "33")`
 * **Art. 33º**
-Los socios honorarios tendrán los mismos derechos , deberes y obligaciones que este Estatuto acuerda a los asociados plenos, vitalicios, vitalicios protectores y especiales con excepción de los enunciados en el inciso b) del [artículo 25º](#art25) y en los incisos a), b), j) y m) del [artículo 32º](#art32). Estas limitaciones no rigen para los asociados honorarios que tuvieren derecho a su ejercicio por revistar a la vez en las categorías de vitalicios, protectores o plenos.
+Los socios honorarios tendrán los mismos derechos, deberes y obligaciones que este Estatuto acuerda a los asociados plenos, vitalicios, vitalicios protectores y especiales con excepción de los enunciados en el inciso b) del [artículo 25º](#art25) y en los incisos a), b), j) y m) del [artículo 32º](#art32). Estas limitaciones no rigen para los asociados honorarios que tuvieren derecho a su ejercicio por revistar a la vez en las categorías de vitalicios, protectores o plenos.
 
 `r get_art_meta("4", "34")`
 * **Art. 34º**
@@ -28,4 +28,4 @@ Los socios Vitalicios quedan exentos del pago de la cuota mensual, teniendo en l
 
 `r get_art_meta("4", "35")`
 * **Art. 35º**
-Los empleados a sueldo de la Institución o que perciban cualquier tipo de honorario o remuneración podrán ser socios y tendrá n en tal supuesto los derechos, deberes y obligaciones de éstos; menos de intervenir en política electoral de la Institución, ni ser electores ni ser elegidos o el de peticionar ante las autoridades, hasta después de un año de haber cesado en su empleo o de sus funciones remuneradas.
+Los empleados a sueldo de la Institución o que perciban cualquier tipo de honorario o remuneración podrán ser socios y tendrán en tal supuesto los derechos, deberes y obligaciones de éstos; menos de intervenir en política electoral de la Institución, ni ser electores ni ser elegidos o el de peticionar ante las autoridades, hasta después de un año de haber cesado en su empleo o de sus funciones remuneradas.

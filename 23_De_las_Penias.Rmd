@@ -31,7 +31,7 @@ Las Peñas podrán recibir donaciones, organizar rifas, cenas, eventos deportivo
 
 `r get_art_meta("23", "126")`
 * **Art. 126º**
-Las Peñas deberán redactar su propio reglamento de funcionamiento interno que será elaborado dentro del marco que fij a el estatuto del club y elevado a la Comisión Directiva para su aprobación.
+Las Peñas deberán redactar su propio reglamento de funcionamiento interno que será elaborado dentro del marco que fija el estatuto del club y elevado a la Comisión Directiva para su aprobación.
 
 `r get_art_meta("23", "127")`
 * **Art. 127º**
