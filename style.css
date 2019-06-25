@@ -12,6 +12,12 @@
   letter-spacing: 0.8px;
 }
 
+.sidebar-footer {
+  text-align: center;
+  font-size: 10px;
+  font-weight: 500;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
