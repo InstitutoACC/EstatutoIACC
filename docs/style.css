@@ -1,3 +1,23 @@
+#instituto-atletico-central-cordoba,
+#instituto-atletico-central-cordoba p {
+  text-align: center;
+}
+
+.sidebar-header {
+  text-align: center;
+  padding: 20px 0 10px;
+  font-weight: 600;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.sidebar-footer {
+  text-align: center;
+  font-size: 10px;
+  font-weight: 500;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
